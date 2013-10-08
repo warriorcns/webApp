@@ -1,0 +1,5 @@
+C:\Users\dkohland\Google Drive\STUDIA\Sieci\NETwork\NETwork\bin\Debug\NETwork.dll.config
+C:\Users\dkohland\Google Drive\STUDIA\Sieci\NETwork\NETwork\bin\Debug\NETwork.dll
+C:\Users\dkohland\Google Drive\STUDIA\Sieci\NETwork\NETwork\bin\Debug\NETwork.pdb
+C:\Users\dkohland\Google Drive\STUDIA\Sieci\NETwork\NETwork\obj\Debug\NETwork.dll
+C:\Users\dkohland\Google Drive\STUDIA\Sieci\NETwork\NETwork\obj\Debug\NETwork.pdb
