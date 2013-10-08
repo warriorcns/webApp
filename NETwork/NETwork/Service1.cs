@@ -5,6 +5,7 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
 using System.Management;
+using System.IO;
 
 namespace NETwork
 {
@@ -12,7 +13,7 @@ namespace NETwork
     public class Service1 : IService1
     {
 
-        ublic double? getGetCPUFrequency()
+        public double? getGetCPUFrequency()
         {
          
             double? GHz = null;
